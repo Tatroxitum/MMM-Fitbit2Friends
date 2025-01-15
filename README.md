@@ -63,7 +63,7 @@ cd ~/MagicMirror # or whatever your path to Magic Mirror is
 
 cd modules
 
-git clone https://github.com/m-roberts/MMM-Fitbit2
+git clone https://github.com/tatroxitum/MMM-Fitbit2Friends
 
 cd MMM-Fitbit2
 
