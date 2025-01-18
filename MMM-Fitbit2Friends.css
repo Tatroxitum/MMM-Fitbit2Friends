@@ -1,48 +1,48 @@
-.MMM-Fitbit2 .wrapper {
+.MMM-Fitbit2Friends .wrapper {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
 }
 
-.MMM-Fitbit2 .widget {
+.MMM-Fitbit2Friends .widget {
 	padding: 10px 5px 0 5px;
 }
 
-.MMM-Fitbit2 .widgettext {
+.MMM-Fitbit2Friends .widgettext {
 	height: 30px;
 	padding: 0 0 5px 0;
 	text-align: center;
 }
 
-.MMM-Fitbit2 .widgeticon {
+.MMM-Fitbit2Friends .widgeticon {
 	opacity: 0.6;
 	height: 20px;
 	display: block;
 	margin: 0 auto;
 }
 
-.MMM-Fitbit2 .widgetprogbarbkg {
+.MMM-Fitbit2Friends .widgetprogbarbkg {
 	position: relative;
 	width: 100%;
 	height: 5px;
 	background-color: grey;
 }
 
-.MMM-Fitbit2 .widgetprogbar {
+.MMM-Fitbit2Friends .widgetprogbar {
 	position: absolute;
 	height: 100%;
 	background-color: lightgrey;
 }
 
-.MMM-Fitbit2 .lastsyncedwrapper {
+.MMM-Fitbit2Friends .lastsyncedwrapper {
 	position: relative;
 }
 
-.MMM-Fitbit2 .textbottomwrapper {
+.MMM-Fitbit2Friends .textbottomwrapper {
 	position: absolute;
 	bottom: 0;
 }
 
-.MMM-Fitbit2 .textbottom {
+.MMM-Fitbit2Friends .textbottom {
 	position: relative;
 }

@@ -65,7 +65,7 @@ cd modules
 
 git clone https://github.com/tatroxitum/MMM-Fitbit2Friends
 
-cd MMM-Fitbit2
+cd MMM-Fitbit2Friends
 
 # Install dependencies
 ./init.sh
